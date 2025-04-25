@@ -32,6 +32,8 @@ Welche 3 *features* sind die wichtigsten Ihres Projektes? Wie können Sie die Ma
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
+Heute habe ich das Projekt in Visual Studio angelegt, die Models für Sitzungen, Fragen, Optionen und Antworten erstellt und die drei wichtigsten Features aufgeschrieben. Ich habe auch die Datenbank eingerichtet. Als nächstes starte ich mit der ersten Razor-Page.
+
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen. Ggf. bietet es sich an, für die Code-Schnipsel einen eigenen Ordner `exploration` zu erstellen.
 
 ## 2.5
