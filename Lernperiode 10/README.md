@@ -40,10 +40,10 @@ Heute habe ich das Projekt in Visual Studio angelegt, die Models für Sitzungen,
 
 Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr Recherche? (Sie können auch mehrere AP für ein *feature* aufwenden.)
 
-- [ ] ... (📵)
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Papier & Stift: Mobil-Layout & User-Flow skizzieren (📵) 
+- [ ] QR-Code: JS-Bibliothek zum Scannen & Generieren testen 
+- [ ] Echtzeit: Polling vs. SignalR vergleichen  
+- [ ] Charts: Dynamische Chart.js-Visualisierung prüfen 
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
