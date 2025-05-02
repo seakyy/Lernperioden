@@ -47,21 +47,24 @@ Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr R
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
+Heute habe ich die Mehrheit der zeit in Debuggen investiert. Ich hatte grosse Probleme beim Umsetzen des Echtzeit: Polling vs. SignalR vergleichen Arbeistpacket. Zuerst wurde die .db Datei garnicht anerkannt. Danach wurde sie zwar erkannt, aber der Code machte kein POST-Statement, dementsprechend wurde auch nicht gespeichert. Nachdem ich den Code nochmals aktualisisert habe, hat es endlich geklappt und die Daten werden in Echtzeit angezeigt und in einem Diagramm dargestellt. Da ich heute sehr unproduktiv war - das Debuggen war sehr zeitintensiv - verschiebe ich das Arbeitspacket mit den Charts auf nächstes mal.
+
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 9.5
 
 Planen Sie nun Ihr Projekt, sodass die *Kern-Funktionalität* in 3 Sitzungen realisiert ist. Schreiben Sie dazu zunächst 3 solche übergeordneten Kern-Funktionalitäten auf: 
 
-1. Kern-Funktionalität
-2. Kern-Funktionalität
-3. Kern-Funktionalität
+1. Kern-Funktionalität: Admin-Oberfläche zum Anlegen von Sessions und Fragen
+2. Kern-Funktionalität: Teilnehmer-Flow mit Antwort-Erfassung
+3. Kern-Funktionalität: Live-Dashboard mit Ergebnis-Visualisierung 
 
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Sessions- und Fragen-CRUD im Admin-UI umsetzen
+- [ ] JoinSession- und Questions-Page mit Antwortspeicherung implementieren 
+- [ ] API-Endpunkt für Ergebnis-Aggregation erstellen
+- [ ] Charts: Dynamische Chart.js-Visualisierung prüfen 
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
