@@ -67,15 +67,16 @@ Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen
 - [ ] Charts: Dynamische Chart.js-Visualisierung prüfen 
 
 ✍️ Heute habe ich... (50-100 Wörter)
+Ich hatte am Anfang noch hartcodierte See-Daten und auch falsche bindungen, die zu ModelState-Fehler führten. Mit einem neuen, simplen ViewModel im Ordner Admin/ und mit dem korrekten einbinden der SeesionId speichert es jetzt endlich Fragen und Optionen in feedback.db und werden nach dem Speichern direkt zum Feedback Flow weitergeleitet. Ich habe heute, wie beim letzten Mal, sehr lange meine Zeit im Debugger verbracht, um die kleinen aber hartnäckigen Bindin Fehler zu beseiten (mit erfolg).
 
 ☝️  Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 16.5
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Admin/ResultsSignalR/1 aktualisieren
+- [ ] Question-CRUD vervollständigen
+- [ ] JoinSession-Flow & QR-Integration
+- [ ] Live-Dashboard mit Chart.js integrieren
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
