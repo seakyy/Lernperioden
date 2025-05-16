@@ -75,19 +75,21 @@ Ich hatte am Anfang noch hartcodierte See-Daten und auch falsche bindungen, die 
 
 - [ ] Admin/ResultsSignalR/1 aktualisieren
 - [ ] Question-CRUD vervollständigen
-- [ ] JoinSession-Flow & QR-Integration
+- [ ] JoinSession-Flow & QR-Integration 
 - [ ] Live-Dashboard mit Chart.js integrieren
 
 ✍️ Heute habe ich... (50-100 Wörter)
+
+Heute habe ich das Admin-Dashboard vollständig überarbeitet und Sessions mit Links zu Fragen, Live-Ergebnissen und Frageerstellung übersichtlich dargestellt. Das neue UI ist responsiver geworden (ich muss es aber noch moderner gestalten - mit klaren Tabellen und Hover-Effekten) . Zusätzlich wurde das Session- und Fragen-CRUD verbessert und Logik eingebaut, um fehlerhafte Eingaben (z. B. ungültige SessionIds) zu vermeiden. Die Live-Datenanzeige mit SignalR funktioniert stabil. Auch die QR-Link-Integration für Sessions wurde umgesetzt – allerdings fehlt die automatische QR-Code-Generierung als Bild noch, die ich auf das nächste Mal verschiebe.
 
 ☝️  Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 23.5
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Automatische QR-Code-Erstellung als Bild
+- [ ] Einfacher Admin-Zugangsschutz mit Passwortabfrage (oder vielleicht auch URL-Key)
+- [ ] Button zum Zurücksetzen aller Antworten einer Session (nur Admin)
+- [ ] UI überarbieten, Methoden überarbeiten
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
