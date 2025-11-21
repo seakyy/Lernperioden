@@ -11,3 +11,5 @@ Heute habe ich meine zwei *Arbeitspackete* im IDPA Projekt volständig umgesetzt
 
 **21/11/2025**
 Goal: Close atleast one other issue. Accounts should be done by then by lukas. I'll probably look over what he has done and then decide on monday on what we'll be working on next.
+
+I have done these following things on monday: Implement mobile registration, implement admin users. We now have merged my Pull Request and we will work on the updated version. My new goal is to implement all authorising actions. 
