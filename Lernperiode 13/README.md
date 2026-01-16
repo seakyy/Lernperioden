@@ -8,3 +8,9 @@ Create a simple C++ Application which can permanently delete files. The windows 
 - [ ] Implement file opening using "createfile".
 - [ ] Error handling: Check if file is lcoked by another process
 
+
+# 23.01.2026
+- [ ] Implement File pointer management
+- [ ] Add overwrite loop (core feature)
+- [ ] cache-bypass with flushfilebuffer
+- [ ] Better User safety (to prevent accidently deleting important files)
