@@ -1,10 +1,10 @@
-# C++ Process Freezer Application
+# C++ FileShredder
 
-Create a simple C++ Application which can freeze an ongoing process. If the Project freezes a programm it will no longer use any cpu ressources. With a button you can "Unfreeze" the process again.
+Create a simple C++ Application which can permanently delete files. The windows "delete" function only deletes the reference to a file, however doesn't really delete the Contents of it. This application will delete the files content with overwriting it with zeros, ones and pseudo random data.
 
 # 16.01.2026
 - [ ] Collect information about Windows API.
-- [ ] Write a simple process which can find threads in the process list.
-- [ ] Write a simple function which can "thaw" the thread.
-- [ ] Add a hotkey for start / stopping the process.
+- [ ] Implement Drag and Drop into the application.
+- [ ] Implement file opening using "createfile".
+- [ ] Error handling: Check if file is lcoked by another process
 
