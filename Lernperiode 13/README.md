@@ -20,3 +20,5 @@ Create a simple C++ Application which can permanently delete files. The windows 
 - [ ] upgrade ui for better visibility
 - [ ] should be able to handle multi thread
 - [ ] Add docs and github pages
+
+This project is finished _for now_, it runs on [GitHub Pages](https://seakyy.github.io/FileShredder/tutorial) with Docs.
