@@ -14,3 +14,9 @@ Create a simple C++ Application which can permanently delete files. The windows 
 - [ ] Add overwrite loop (core feature)
 - [ ] cache-bypass with flushfilebuffer
 - [ ] Better User safety (to prevent accidently deleting important files)
+
+# 30.01.2026
+- [ ] Add shreddering mechanism
+- [ ] upgrade ui for better visibility
+- [ ] should be able to handle multi thread
+- [ ] Add docs and github pages
